@@ -31,7 +31,7 @@
 	 > 3. `--importPath=NPM_NAME` - name of npm package
 
 ## Related Projects:
-1. [nx-starter](https://github.com/happ-agency/nx)
+1. [nx-starter](https://github.com/happ-agency/nx-starter)
 2. [nx-web-starter](https://github.com/happ-agency/nx-web-starter)
 3. [nx-nestjs-starter](https://github.com/happ-agency/nx-nestjs-starter)
 4. [nx-angular-starter](https://github.com/happ-agency/nx-angular-starter)
