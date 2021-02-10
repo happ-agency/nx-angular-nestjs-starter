@@ -30,5 +30,9 @@
 	 > 2. `--publishable` - to create build target in the `angular.json` or `workspace.json` which is the same
 	 > 3. `--importPath=NPM_NAME` - name of npm package
 
-
+## Related Projects:
+1. [nx-starter](https://github.com/happ-agency/nx)
+2. [nx-web-starter](https://github.com/happ-agency/nx-web-starter)
+3. [nx-nestjs-starter](https://github.com/happ-agency/nx-nestjs-starter)
+4. [nx-angular-starter](https://github.com/happ-agency/nx-angular-starter)
 
