@@ -1,5 +1,5 @@
 {
-  "npmScope": "nx-starter",
+  "npmScope": "nx-angular-nestjs-starter",
   "affected": {
     "defaultBase": "main"
   },
